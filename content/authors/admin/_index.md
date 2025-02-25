@@ -32,7 +32,7 @@ profiles:
     url: 'mailto:fagerstrom.jon@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/ion3erik
+    url: https://github.com/Ion3rik
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jonfagerstrom/
   - icon: academicons/google-scholar
