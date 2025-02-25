@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/2025_CV_academic_Fagerstrom.pdf
     design:
       css_class: dark
       background:
